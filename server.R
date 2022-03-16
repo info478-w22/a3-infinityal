@@ -1,3 +1,4 @@
+library(EpiModel)
 server <- function(input, output) {
   prob <- 0.99
   dcm_prob_input <- reactive({
@@ -48,7 +49,4 @@ server <- function(input, output) {
     icm <- plot(icm(param, init, control))
     return(icm)
   })
-
-  
-  
 }

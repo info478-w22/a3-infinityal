@@ -5,10 +5,10 @@ account: infinityal
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5870309
-bundleId: 5693123
+bundleId: 5693171
 url: https://infinityal.shinyapps.io/a3-infinityal/
-when: 1647466639.11177
-lastSyncTime: 1647466639.11177
+when: 1647467586.91612
+lastSyncTime: 1647467586.91612
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: analysis.R

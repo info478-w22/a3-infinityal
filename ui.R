@@ -122,11 +122,6 @@ Interpretation <- tabPanel(
           those policies behave to the Covid-19 spread."), style = "font-size: 20px; margin-left: auto; margin-right: auto;")
 )
 
-
-
-
-
-
 ui <- fluidPage(
   navbarPage(
     "a3-disease-modeling",
